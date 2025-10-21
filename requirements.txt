@@ -1,0 +1,10 @@
+# Dependências recomendadas para o projeto LangChain
+# Instale com: pip install -r requirements.txt
+
+tiktoken
+openai
+langchain
+langchain-community
+langchain-openai
+chromadb
+python-dotenv

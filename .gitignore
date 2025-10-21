@@ -1,0 +1,5 @@
+# Ignorar ambiente virtual e arquivos sensíveis
+venv/
+.env
+__pycache__/
+db_chroma/
